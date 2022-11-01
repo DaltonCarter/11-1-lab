@@ -1,0 +1,49 @@
+
+header {
+    height: 150px;
+    background-color: gainsboro;
+}
+
+#box {
+    height: 100px;
+    width: 100px;
+    background-color: cornflowerblue;
+    position: relative;
+    top: 25px;
+    left: 25px;
+}
+
+#blue{
+    height: 250px;
+    background-color: cornflowerblue;
+}
+
+#seafoam{
+    height: 250px;
+    background-color: aquamarine;
+}
+
+#yellow-green{
+    height: 250px;
+    background-color: palegreen;
+}
+
+#yellow{
+    height: 250px;
+    background-color: yellow;
+}
+
+#bubble {
+position: fixed;
+right: 20px;
+bottom: 20px;
+font: 26px;
+color: white;
+background-color: black;
+height: 30px;
+width: 30px;
+border-radius: 50%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
